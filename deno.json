@@ -1,0 +1,6 @@
+{
+  "exports": "./main.ts",
+  "tasks": {
+    "start": "deno run --allow-net exit_node.ts"
+  }
+}
